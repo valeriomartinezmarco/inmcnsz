@@ -1,0 +1,139 @@
+INFO - 2023-02-15 20:15:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:15:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-15 20:35:16 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-02-15 20:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:35:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:36:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-15 20:36:03 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 20:36:11 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 20:36:17 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 20:37:25 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-02-15 20:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-15 20:37:36 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-02-15 20:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:38:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-15 20:38:57 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-02-15 20:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:44:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-15 20:44:33 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 20:45:36 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 20:47:33 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-02-15 20:47:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:47:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-15 20:47:46 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 20:47:56 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-02-15 20:48:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 20:48:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-15 20:48:44 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-02-15 21:04:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 21:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 21:04:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 21:04:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 21:04:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 21:05:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 21:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 21:05:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-15 21:05:23 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 21:05:33 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 21:05:59 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 21:06:10 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 21:07:17 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-15 21:07:22 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-02-15 21:07:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 21:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 21:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-02-15 21:07:44 --> Class 'Config\Auth' not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('dashboard', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-02-15 21:09:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 21:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-02-15 21:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
