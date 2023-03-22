@@ -28,8 +28,8 @@ class Database extends Config
         'DSN'      => '',
         'hostname' => 'localhost',
         'username' => 'root',
-        'password' => '1310',
-        'database' => 'ci4_form',
+        'password' => '',
+        'database' => 'ci4_form ',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,
@@ -41,7 +41,7 @@ class Database extends Config
         'compress' => false,
         'strictOn' => false,
         'failover' => [],
-        'port'     => 8111,
+        'port'     => 3306,
     ];
 
     /**
